@@ -15,3 +15,6 @@ in Bengaluru.
 
 Source: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
+
+I have tried to do EDA on the necessary variables and model using a variety of algorithms and ended it with a blending type model for more generalization.
+
